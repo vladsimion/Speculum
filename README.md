@@ -9,13 +9,13 @@ By mapping **maps themselves as coordinate points on a multi-axis signature plat
 
 ## 🧭 The Six Bearings (Analytical Matrix)
 
-Every map in the corpus is analyzed and rated systematically on a scale from `0` to `8` points—each point mapped conceptually to one of the principal winds of a standard nautical compass rose:
+Every map in the corpus is analyzed and rated systematically on a scale from `0` to `8` points-each point mapped conceptually to one of the principal winds of a standard nautical compass rose:
 
 1. **Geodesy (`Geodesy`):** Mathematical fidelity to the physical shape of the planet (projections, strict coordinate systems, uniform scale parameters, absolute spatial positioning).
 2. **Witness (`Witness`):** Empirical grounding. The degree to which data relies on immediate observation (hydrographic soundings, overland itineraries, astronomical sightings) rather than institutional rumor or unverified copying chains.
 3. **Cosmos (`Cosmos`):** The density of symbolic and theological frameworks. Bends the map configuration to align with ideological centers (e.g., placing religious landmarks or imperial seats at absolute centers by doctrine over geometry).
 4. **Fitness (`Fitness`):** Pragmatic efficiency. How successfully the artifact met the explicit socio-economic tasks it was commissioned for (navigating ocean routes, military mobilization, fiscal taxation, spiritual instruction).
-5. **Reach (`Reach`):** The horizontal spatial scale of the world captured on the sheet—ranging from highly localized regions and isolated coastlines to the entire known inhabited ecumene.
+5. **Reach (`Reach`):** The horizontal spatial scale of the world captured on the sheet-ranging from highly localized regions and isolated coastlines to the entire known inhabited ecumene.
 6. **Hand (`Hand`):** Craftsmanship and mechanical mastery. The qualitative implementation of engraving, calligraphy, pigment choices, and visual layout design.
 
 ---
